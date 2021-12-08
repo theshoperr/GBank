@@ -1,6 +1,6 @@
 body{
     background-image: url("Gradient background.png");
-    background-color: #837FAA;
+    background-color: #773d7c;
     background-size: cover;
 }
 
@@ -13,32 +13,40 @@ body{
 }
 
 .logo{
-    width: 50%;
+    width: 30%;
     margin-bottom: -450px;
 }
 
+.titulo{
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 5em;
+}
+
 .input-group-text{
-    background-color: #837FAA;
+    background-color: #773d7c;
     border: transparent;
     color: white;
 }
 
 .form-control{
-    background-color: #5F5C80;
+    background-color: #622a70;
     border: transparent;
 }
 
 .form-control:hover{
-    background-color: #5F5C80;
+    background-color: #773d7c;
 }
 
 .btn{
-    background-color: #242335;
+    background-color: #773d7c;
     border: transparent;
 }
 
 .btn:hover{
-    background-color: #5F5C80;
+    background-color: #622a70;
 }
 
 .container{
