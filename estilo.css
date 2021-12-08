@@ -1,0 +1,52 @@
+body{
+    background-image: url("Gradient background.png");
+    background-color: #837FAA;
+    background-size: cover;
+}
+
+.sucesso{
+    color: transparent;
+}
+
+.input-group{
+    width: 500px !important;
+}
+
+.logo{
+    width: 50%;
+    margin-bottom: -450px;
+}
+
+.input-group-text{
+    background-color: #837FAA;
+    border: transparent;
+    color: white;
+}
+
+.form-control{
+    background-color: #5F5C80;
+    border: transparent;
+}
+
+.form-control:hover{
+    background-color: #5F5C80;
+}
+
+.btn{
+    background-color: #242335;
+    border: transparent;
+}
+
+.btn:hover{
+    background-color: #5F5C80;
+}
+
+.container{
+    top: 0%;
+    left: 0%;
+    transform: translate(0%,250%);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+}
